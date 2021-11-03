@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-class SumofBigValue {
+class BigStringSum {
 
     static class Node
     {
